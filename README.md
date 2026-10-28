@@ -71,7 +71,7 @@ I care about **why something should be built**, not just whether I can build it.
 ## 🔗 Find Me Around the Internet
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)]([YOUR_LINKEDIN](https://www.linkedin.com/in/ketaki-joshi-0b380b20a/))
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](ketakijoshi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://ketakijoshi.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:joshiketaki101@gmail.com)
 
 ---
